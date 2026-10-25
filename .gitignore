@@ -1,0 +1,9 @@
+local/
+build/
+*.o
+*.a
+*.efi
+*.EFI
+*.su
+*.pyc
+__pycache__/
