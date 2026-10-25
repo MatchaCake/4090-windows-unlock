@@ -224,3 +224,28 @@ Recovery from a halted state requires a full power-off. There is no
 guarantee of fitness for any purpose. The tested configuration (manual
 iGPU-console) completed one successful transaction with no adverse
 effects; all other configurations are untested code. Use at your own risk.
+
+**THIS REPOSITORY IS PUBLISHED FOR RESEARCH AND EDUCATIONAL PURPOSES ONLY.**
+
+The author provides this code "AS IS", without warranty of any kind,
+express or implied, including but not limited to the warranties of
+merchantability, fitness for a particular purpose, and noninfringement.
+In no event shall the author be liable for any claim, damages, or other
+liability, whether in an action of contract, tort, or otherwise, arising
+from, out of, or in connection with this software or the use or other
+dealings in this software.
+
+**By using any code from this repository, you acknowledge that:**
+
+- You are solely responsible for any damage to your hardware, software,
+  data, or any other consequences that may result from running this code.
+- This code writes to proprietary GPU registers that NVIDIA does not
+  document for end-user modification. Doing so may void your warranty,
+  violate NVIDIA's EULA, or cause irreversible hardware damage.
+- The author has tested this on exactly one card (Zotac RTX 4090) on
+  exactly one motherboard (ASUS ROG STRIX X670E-I) and makes no claim
+  that it will work, or even fail safely, on any other hardware.
+- If your computer stops booting, displays a black screen, corrupts data,
+  or catches fire — that is your problem, not the author's.
+
+If these terms are unacceptable, do not use this code.
