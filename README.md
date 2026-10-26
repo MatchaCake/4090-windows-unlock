@@ -1,4 +1,4 @@
-# AD102 (RTX 4090) Windows UEFI Speed-Select Unlock
+# 4090-windows-unlock — RTX 4090 (AD102) Windows UEFI Speed-Select Unlock
 
 A Windows UEFI port of the SM speed-select override for one specific
 **Zotac RTX 4090 (AD102 A1, `10de:2684`, subsystem `19da:4675`)**
